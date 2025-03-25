@@ -318,6 +318,11 @@ WHERE ls.revenue > cs.revenue
 ORDER BY revenue_dec_ratio DESC;
 ```sql
 
+
+---
+
+---
+
 ## **Learning Outcomes**
 
 This project enabled me to:
@@ -334,3 +339,5 @@ This project enabled me to:
 This advanced SQL project successfully demonstrates my ability to solve real-world e-commerce problems using structured queries. From improving customer retention to optimizing inventory and logistics, the project provides valuable insights into operational challenges and solutions.
 
 By completing this project, I have gained a deeper understanding of how SQL can be used to tackle complex data problems and drive business decision-making.
+
+---
