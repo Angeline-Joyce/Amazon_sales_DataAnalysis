@@ -41,7 +41,7 @@ The primary objective of this project is to showcase SQL proficiency through com
 
 ---
 
-
+```sql
 -- SQL PROBLEMS BASED ON THE AMAZON_SALES_ANALYSIS
 
 /*
@@ -316,7 +316,7 @@ FROM last_year_sale AS ls
 inner join current_year_sale AS cs ON ls.product_id = cs.product_id
 WHERE ls.revenue > cs.revenue
 ORDER BY revenue_dec_ratio DESC;
-
+```sql
 
 ## **Learning Outcomes**
 
