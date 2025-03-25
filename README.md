@@ -85,7 +85,7 @@ select cte.category_id, cte.category_name,
        round((total_sal_pCat * 100 / total_sales),2) as total_contribution
 from cte 
 order by total_contribution desc
-```sql
+
 /*
 3. Average Order Value (AOV)
 Compute the average order value for each customer.
