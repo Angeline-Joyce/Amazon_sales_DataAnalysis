@@ -37,6 +37,28 @@ The primary objective of this project is to showcase SQL proficiency through com
 - Inventory management
 - Payment and shipping analysis
 - Forecasting and product performance
+
+---
+
+## **Learning Outcomes**
+
+This project enabled me to:
+- Design and implement a normalized database schema.
+- Clean and preprocess real-world datasets for analysis.
+- Use advanced SQL techniques, including window functions, subqueries, and joins.
+- Conduct in-depth business analysis using SQL.
+- Optimize query performance and handle large datasets efficiently.
+
+---
+
+## **Conclusion**
+
+This advanced SQL project successfully demonstrates my ability to solve real-world e-commerce problems using structured queries. From improving customer retention to optimizing inventory and logistics, the project provides valuable insights into operational challenges and solutions.
+
+By completing this project, I have gained a deeper understanding of how SQL can be used to tackle complex data problems and drive business decision-making.
+
+---
+
   
 
 ---
@@ -318,26 +340,3 @@ WHERE ls.revenue > cs.revenue
 ORDER BY revenue_dec_ratio DESC;
 ```sql
 
-
----
-
----
-
-## **Learning Outcomes**
-
-This project enabled me to:
-- Design and implement a normalized database schema.
-- Clean and preprocess real-world datasets for analysis.
-- Use advanced SQL techniques, including window functions, subqueries, and joins.
-- Conduct in-depth business analysis using SQL.
-- Optimize query performance and handle large datasets efficiently.
-
----
-
-## **Conclusion**
-
-This advanced SQL project successfully demonstrates my ability to solve real-world e-commerce problems using structured queries. From improving customer retention to optimizing inventory and logistics, the project provides valuable insights into operational challenges and solutions.
-
-By completing this project, I have gained a deeper understanding of how SQL can be used to tackle complex data problems and drive business decision-making.
-
----
