@@ -4,7 +4,7 @@
 # amazon_sales_analysis
  This project provides an in-depth analysis of Amazon sales data using SQL Server. It covers various business insights, including revenue trends, customer behavior, order analysis, and inventory management. The dataset consists of multiple tables such as orders, customers, products, and payments.
 
-# Dashboard : https://app.powerbi.com/view?r=eyJrIjoiNWFlMjdmNTgtYTQ5Ny00NDMwLWIwNmQtZjRkZGRlMjQ2Y2RiIiwidCI6IjVlMWVlNzI5LWI1M2MtNDJmMS05NzU4LTNjOGFkYWZlMTEwMCJ9
+#### Dashboard : https://app.powerbi.com/view?r=eyJrIjoiNWFlMjdmNTgtYTQ5Ny00NDMwLWIwNmQtZjRkZGRlMjQ2Y2RiIiwidCI6IjVlMWVlNzI5LWI1M2MtNDJmMS05NzU4LTNjOGFkYWZlMTEwMCJ9
 
  ## **Project Overview**
 
